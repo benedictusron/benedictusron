@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Header](./image/header-banner.png)
+<!-- ![Header](./image/header-banner.png) -->
 ## Hi there! 👋
 
 I'm **Ben**! A passionate developer from **Indonesia**, currently diving deep into the world of coding. My mantra is 'Learning by doing...' and I'm excited to share my journey with you!

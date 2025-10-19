@@ -22,7 +22,7 @@ I'm **Ben**! A passionate developer from **Indonesia**, currently diving deep in
 I'm a self-taught developer with a focus on practical application and hands-on experience. Based in Indonesia, I'm exploring various technologies and honing my skills. My journey in coding is fueled by curiosity and a love for problem-solving.
 
 ## Skills & Technologies
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,docker,github,git,react,nodejs,bootstrap,figma,mysql,wordpress,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,docker,github,git,react,nodejs,bootstrap,tailwind,figma,mysql,wordpress)](https://skillicons.dev)
 
 
 
